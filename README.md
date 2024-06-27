@@ -13,6 +13,4 @@ Meu nome é otavio
 00001105137259SP@al.educacao.sp.gov.br
 
 @otaviolindoo
-
-![descrição do GIF](link GIF do Tenor)
-~~>
+https://media1.tenor.com/m/RA0A9TBAGskAAAAC/kakashi.gif
